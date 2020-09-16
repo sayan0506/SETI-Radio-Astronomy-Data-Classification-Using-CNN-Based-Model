@@ -18,5 +18,8 @@ This work is based on a paper ["Machine Vision and Deep Learning for Classificat
 
 The Convolution Neural Network model has been trained from scratch using Tensorflow, Keras as backend. By the end of the training the CNN can be used for classifictaion of that radio astronomy data.
 
-* Resources:
+The entire data pre-processing, model training and implementation can be found in the python notebook [code](https://github.com/sayan0506/SETI-radio-signal-classification-using-CNN-based-model/blob/master/SETI_radio_signal_classification_using_CNN.ipynb).
 
+* Resources:
+1. https://github.com/setiquest/ml4seti
+2. ["Machine Vision and Deep Learning for Classification of Radio SETI Signals"](https://arxiv.org/ftp/arxiv/papers/1902/1902.02426.pdf) 
