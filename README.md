@@ -6,7 +6,7 @@ Classifying 4 different types of radio signals from sequential data captured by 
 
 In this project mainly 4 following types of radio signals are classified, which are:
 
->**1. Squiuggle**
+>**1. Squiggle**
 >
 >**2. Narrowband**
 >
@@ -20,7 +20,8 @@ The Convolution Neural Network model has been trained from scratch using Tensorf
 
 The details of entire data pre-processing, model training and implementation can be found in the python notebook [**code**](https://github.com/sayan0506/SETI-radio-signal-classification-using-CNN-based-model/blob/master/SETI_radio_signal_classification_using_CNN.ipynb). The notebook was implemented in [Google Collab](https://colab.research.google.com/).
 
-The trained model parameters can be found in [Weights](https://github.com/sayan0506/SETI-Radio-Astronomy-Data-Classification-Using-CNN-Based-Model/tree/master/Weights_file).
+The saved model can be found in [Weights](https://github.com/sayan0506/SETI-Radio-Astronomy-Data-Classification-Using-CNN-Based-Model/tree/master/Weights_file).
+The parameter file is too large to upload.
 
 * **Resources:**
 1.   https://github.com/setiquest/ml4seti
