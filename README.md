@@ -6,13 +6,13 @@ Classifying 4 different types of radio signals from sequential data captured by 
 
 In this project mainly 4 following types of radio signals are classified, which are:
 
->1. Squiuggle
+>**1. Squiuggle
 >
 >2. Narrowband
 >
 >3. Noise
 >
->4. Narrorbanddrd
+>4. Narrorbanddrd**
 
 This work is based on a paper ["Machine Vision and Deep Learning for Classification of Radio SETI Signals"](https://arxiv.org/ftp/arxiv/papers/1902/1902.02426.pdf).
 
