@@ -25,3 +25,5 @@ The trained model parameters can be found in [Weights](https://github.com/sayan0
 * **Resources:**
 1.   https://github.com/setiquest/ml4seti
 2. ["Machine Vision and Deep Learning for Classification of Radio SETI Signals"](https://arxiv.org/ftp/arxiv/papers/1902/1902.02426.pdf) 
+
+**All the contents are made public, and all modifications, pull requests are welcome but please open issue and discuss before executing any major change in the repository.**
