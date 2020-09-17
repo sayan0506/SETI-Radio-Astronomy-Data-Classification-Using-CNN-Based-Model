@@ -16,7 +16,7 @@ In this project mainly 4 following types of radio signals are classified, which 
 
 This work is based on a paper ["Machine Vision and Deep Learning for Classification of Radio SETI Signals"](https://arxiv.org/ftp/arxiv/papers/1902/1902.02426.pdf).
 
-**Dataset:** The dataset used in this project can be found from the **[[drive link]](https://drive.google.com/drive/folders/1O5CG67diYodJwmHbIj9xkZNq6qmZzdW5?usp=sharing)**
+**Dataset:** The dataset used in this project can be found from the **[[drive link]](https://drive.google.com/drive/folders/1O5CG67diYodJwmHbIj9xkZNq6qmZzdW5?usp=sharing)**.
 
 The Convolution Neural Network model has been trained from scratch using Tensorflow, Keras as backend. By the end of the training the CNN can be used for classifictaion of that radio astronomy data.
 
